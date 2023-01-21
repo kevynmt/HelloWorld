@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello World</string>
+    <string name="kevyn_intro">Hello! My name is Kevyn. I am very excited for Android Development because this is actually very similar to what I want to do as a full-time career. I am very excited to see what kind of ungodly creations I can make with this thing! (image unrelated)</string>
+    <string name="button_text">Tap here for a surprise!</string>
+</resources>
